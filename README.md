@@ -1,19 +1,30 @@
-🌐 Responsive Web Tasarım 
+# 🌐 Responsive Web Tasarım
+
 Bu proje, HTML ve CSS kullanılarak oluşturulmuş bir responsive (mobil uyumlu) web sayfasıdır. Bu sayfa, farklı cihazlarda (telefon, tablet, bilgisayar) sorunsuz bir şekilde çalışacak şekilde tasarlanmıştır.
 
-📄 Site İçeriği
-Ana Sayfa: Kullanıcı dostu bir arayüz ile ziyaretçileri karşılayan ana sayfa. Ana sayfa üzerinde site hakkında temel bilgiler, navigasyon menüsü ve öne çıkan içerikler yer alır.
-Özellikler: Sayfanın sunduğu özellikler hakkında bilgi veren bölüm. Bu bölümde, sitenin farklı cihazlara nasıl uyum sağladığı, tasarım trendlerine nasıl uygun olduğu ve kullanıcı dostu yapısı hakkında detaylar bulunur.
-İletişim: Kullanıcıların size ulaşabileceği iletişim formu ve bilgiler. Ziyaretçiler, bu bölüm aracılığıyla mesaj bırakabilir veya doğrudan iletişim kurabilir.
-📂 Proje Yapısı
-index.html: Ana sayfa dosyası. Bu dosya, sitenin tüm HTML yapısını içerir.
-styles.css: Tüm stil kurallarını içeren CSS dosyası. Bu dosya, sayfanın tasarımını ve düzenini belirler.
-images/: Sitede kullanılan görsellerin bulunduğu klasör. Sayfanın görsel öğeleri bu klasörde yer alır.
+## 📄 Site İçeriği
 
-💡 Özellikler
-📱 Mobil Uyumlu: Tüm ekran boyutlarında (telefon, tablet, masaüstü) uyumlu tasarım.
-🎨 Modern Tasarım: Güncel tasarım trendlerine uygun estetik görünüm.
-🧭 Kullanıcı Dostu: Basit ve kolay gezilebilir menü yapısı.
+- **Ana Sayfa:** Kullanıcı dostu bir arayüz ile ziyaretçileri karşılayan ana sayfa. Ana sayfa üzerinde site hakkında temel bilgiler, navigasyon menüsü ve öne çıkan içerikler yer alır.
+  
+- **Özellikler:** Sayfanın sunduğu özellikler hakkında bilgi veren bölüm. Bu bölümde, sitenin farklı cihazlara nasıl uyum sağladığı, tasarım trendlerine nasıl uygun olduğu ve kullanıcı dostu yapısı hakkında detaylar bulunur.
+
+- **İletişim:** Kullanıcıların size ulaşabileceği iletişim formu ve bilgiler. Ziyaretçiler, bu bölüm aracılığıyla mesaj bırakabilir veya doğrudan iletişim kurabilir.
+
+## 📂 Proje Yapısı
+
+- **index.html:** Ana sayfa dosyası. Bu dosya, sitenin tüm HTML yapısını içerir.
+
+- **styles.css:** Tüm stil kurallarını içeren CSS dosyası. Bu dosya, sayfanın tasarımını ve düzenini belirler.
+
+- **images/:** Sitede kullanılan görsellerin bulunduğu klasör. Sayfanın görsel öğeleri bu klasörde yer alır.
+
+## 💡 Özellikler
+
+- **📱 Mobil Uyumlu:** Tüm ekran boyutlarında (telefon, tablet, masaüstü) uyumlu tasarım.
+
+- **🎨 Modern Tasarım:** Güncel tasarım trendlerine uygun estetik görünüm.
+
+- **🧭 Kullanıcı Dostu:** Basit ve kolay gezilebilir menü yapısı.
 
 <img width="1467" alt="Ekran Resmi 2024-08-11 21 34 02" src="https://github.com/user-attachments/assets/2bf1702e-6910-4927-9b8b-ed5b686e2424">
 <img width="1465" alt="Ekran Resmi 2024-08-11 21 34 41" src="https://github.com/user-attachments/assets/7790b908-4a68-4d15-a311-9953c939ac0a">
